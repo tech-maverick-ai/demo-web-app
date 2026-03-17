@@ -18,4 +18,4 @@ A sample React web application for demonstrating APM monitoring.
 This app is monitored with New Relic APM for:
 - Performance metrics
 - Error tracking
-- User experience monitoring
+- User experience monitorings
